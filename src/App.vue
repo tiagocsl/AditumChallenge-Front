@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img class="imgLogo" alt="Aditum Logo" src="./assets/logo.png">
-    <Home msg="Bem Vindo ao desafio da Aditum Pagamento"/>    
+    <Home msg="Bem Vindo ao desafio da Aditum Pagamentos"/>    
   </div>
 </template>
 

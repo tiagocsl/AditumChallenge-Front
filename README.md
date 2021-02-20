@@ -12,28 +12,28 @@
 
 <!-- TABLE OF CONTENTS -->
 
-## Table of Contents
+## Ídice
 
-- [Índice](#table-of-contents)
-- [Começando](#getting-started)
-  - [Pré-requisitos](#prerequisites)
-  - [Instalação](#installation)
-- [Uso](#usage)
-  - [Compilando modo Dev](#compiles-and-hot-reloads-for-development)
-  - [Buildando o App](#compiles-and-minifies-for-production)
-- [Contribuindo](#contributing)
+- [Índice](#Ídice)
+- [Começando](#Começando)
+  - [Pré-requisitos](#Pré-requisitos)
+  - [Instalação](#Instalação)
+- [Uso](#Uso)
+  - [Compilando modo Dev](#Compilando-modo-Dev)
+  - [Buildando o App](#Buildando=o-App)
+- [Contribuindo](#Contríbuindo)
 
 <!-- ABOUT THE PROJECT -->
 
-## Getting Started
+## Começando
 
 Para obter uma cópia local instalada e funcionando, siga estas etapas simples.
 
-### Prerequisites
+### Pré-requisitos
 
 `npm` instaldo em sua máquina.
 
-### Installation
+### Instalação
 
 1. Clone o repositório
 
@@ -48,21 +48,21 @@ cd AditumChallenge-Front
 npm i
 ```
 
-## Usage
+## Uso
 
-### Compiles and hot-reloads for development
+### Compilando modo Dev
 
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Buildando o App
 
 ```
 npm run build
 ```
 
-## Contributing
+## Contríbuindo
 
 1. Crie sua Branch de recurso/refatoração/correção (`git checkout -b feature/AmazingFeature`)
 2. Faça commit de suas alterações (`git cz`) e siga as instruções de commitizen
