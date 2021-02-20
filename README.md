@@ -20,7 +20,8 @@
   - [Instalação](#Instalação)
 - [Uso](#Uso)
   - [Compilando modo Dev](#Compilando-modo-Dev)
-  - [Buildando o App](#Buildando=o-App)
+  - [Buildando o App](#Buildando-o-App)
+  - [Enviando File.csv](#Enviando-File.csv)
 - [Contribuindo](#Contríbuindo)
 
 <!-- ABOUT THE PROJECT -->
@@ -50,7 +51,7 @@ npm i
 
 ## Uso
 
-### Compilando modo Dev
+### Rodando modo Dev
 
 ```
 npm run serve
@@ -61,6 +62,12 @@ npm run serve
 ```
 npm run build
 ```
+
+### Enviando File.csv
+
+No diretório do projeto, há um arquivo .csv para ser utilizado no app.
+Após a porta 8080 estar online, acesse-a em seu navegador, e clique em 'Enviar Arquivo',
+navegue até a pasta do projeto, e selecione o arquivo File.csv. Com isso feito, o banco de dados irá ser populado
 
 ## Contríbuindo
 
